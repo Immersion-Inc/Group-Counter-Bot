@@ -1,0 +1,12 @@
+{
+    "GroupId": "4705120",
+    "BotToken": "YoUR.DIScoRD_BOt.ToKEN",
+
+    "Cooldown": 3,
+
+    "IncreaseString": "📈 [GROUPNAME] has gained [N] [M]!",
+    "DecreaseString": "📉 [GROUPNAME] has lost [N] [M].",
+
+    "ServerId": "",
+    "ChannelId": ""
+}
