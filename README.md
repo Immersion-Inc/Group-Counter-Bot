@@ -25,4 +25,4 @@ For example, you could set IncreaseString to something like:
 `📣 [GROUPNAME] has gained [N] [M]!` --> **`📣 Scriptbloxian Studios has gained 15 members!`**
 
 ## Thank you for reading
-Sweet. That should be it for now, please create [an issue](https://github.com/Immersion-Inc/Group-Counter/issues) if anythings wrong.
+Sweet. That should be it for now, please create [an issue](https://github.com/Immersion-Inc/Group-Counter-Bot/issues) if anythings wrong.
